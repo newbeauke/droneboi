@@ -5,4 +5,4 @@ Game download: [Play Store](https://play.google.com/store/apps/details?id=com.ry
 
 ### Guide
 
-This website provides a getting started guide, as well as a list of all parts and their functions & other useful information.
+These pages will provide documentation on how to start your own Droneboi custom server.
